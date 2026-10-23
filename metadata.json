@@ -1,0 +1,6 @@
+{
+  "name": "Super Moral Adventure — Misi 5 Kunci Emas",
+  "description": "Permainan platformer 2D Pendidikan Moral untuk murid Tahun 1 Malaysia bersama Adam dan Aisyah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
